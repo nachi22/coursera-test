@@ -87,34 +87,3 @@ section {
 		margin-bottom: 20px;
 	}
 }
-
-
-
-
-<span class="navbar-brand mb-0 h1">Food,LLC</span>
-  				<div class="dropdown">
-  					<div class="d-flex flex-row-reverse bd-highlight">
-  <button class="btn btn-secondary dropdown-toggle dropdown-style" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown"aria-expanded="false"><div class="p-2 bd-highlight">Flex item 1</div>
-    
-  </button>
-</div>
-   <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-    <li><a class="dropdown-item" href="#">Menu</a></li>
-    <li><a class="dropdown-item" href="#">About</a></li>
-    <li><a class="dropdown-item" href="#">Awards</a></li>
-  </ul>
-</div>
-			</div>
-		</nav>
-
-
-		<span class="navbar-brand mb-0 h1">Food,LLC</span>
-  			
-  		 <button class="navbar-toggler ms-auto" type="button" data-mdb-toggle="collapse"
-      data-mdb-target="#navbarToggleExternalContent3" aria-controls="navbarToggleExternalContent3"
-      aria-expanded="false" aria-label="Toggle navigation">
-      <i class="fas fa-bars"></i>
-    </button>
-
-			</div>
-		</nav>
